@@ -1,0 +1,51 @@
+[
+  {
+    "str": "@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@100&display=swap');",
+    "method": "css",
+    "imports": {
+      "fonts": [
+        {
+          "fontFamily": "IBM Plex Sans",
+          "fontStyle": "normal",
+          "fontWeight": 100
+        }
+      ]
+    }
+  },
+  {
+    "str": "@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@100;400&display=swap');",
+    "method": "css",
+    "imports": {
+      "fonts": [
+        {
+          "fontFamily": "IBM Plex Sans",
+          "fontStyle": "normal",
+          "fontWeight": 100
+        },
+        {
+          "fontFamily": "IBM Plex Sans",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        }
+      ]
+    }
+  },
+  {
+    "str": "@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@100;500&display=swap');",
+    "method": "css",
+    "imports": {
+      "fonts": [
+        {
+          "fontFamily": "IBM Plex Sans",
+          "fontStyle": "normal",
+          "fontWeight": 100
+        },
+        {
+          "fontFamily": "IBM Plex Sans",
+          "fontStyle": "normal",
+          "fontWeight": 500
+        }
+      ]
+    }
+  }
+]

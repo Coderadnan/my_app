@@ -1,0 +1,55 @@
+Arguments: 
+  C:\Users\Adnan\.atri\webapp-builder-win.exe.v0.0.71 C:\snapshot\webapp-builder\node_modules\yarn\bin\yarn.js install
+
+PATH: 
+  C:\Program Files\Scripts\;C:\Program Files\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files\nodejs\;C:\MinGW\bin;C:\Program Files\Git\cmd;C:\Program Files\MongoDB\Server\6.0\bin;C:\Program Files\MongoDB\Server\6.0\data;C:\Program Files\MongoDB\Server\6.0\bin;C:\Users\Adnan\miniconda3;C:\Users\Adnan\miniconda3\Library\mingw-w64\bin;C:\Users\Adnan\miniconda3\Library\usr\bin;C:\Users\Adnan\miniconda3\Library\bin;C:\Users\Adnan\miniconda3\Scripts;C:\Users\Adnan\AppData\Local\Microsoft\WindowsApps;C:\Users\Adnan\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\python\Scripts;C:\Program Files\python;C:\Program Files\pycharm\PyCharm Community Edition 2022.1.3\bin;;C:\Users\Adnan\AppData\Roaming\npm;C:\Program Files\MongoDB\Server\6.0\bin;C:\Program Files\MongoDB\Server\6.0\bin;C:\Users\Adnan\AppData\Roaming\Python\Python310\site-packages;C:\Users\Adnan\AppData\Roaming\Python\Python310\Scripts;C:\Users\Adnan\AppData\Roaming\Python\Python310\site-packages;C:\Users\Adnan\AppData\Roaming\Python\Python310\Scripts
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  16.16.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: EPERM: operation not permitted, unlink 'C:\Users\Adnan\AppData\Local\Yarn\Cache\v6\npm-prettier-2.7.1-e235806850d057f97bb08368a4f7d899f7760c64-integrity\node_modules\prettier\.yarn-tarball.tgz'
+
+npm manifest: 
+  {
+    "name": "atri-react-app-template",
+    "version": "0.0.0",
+    "private": "true",
+    "scripts": {
+      "buildApp": "atri-react-app-build-app",
+      "buildAppNode": "atri-react-app-build-server",
+      "buildServer": "cd server && tsc",
+      "build": "yarn run buildApp && yarn run buildAppNode",
+      "devServer": "node dist/server/index.js --dev",
+      "server": "node dist/server/index.js",
+      "dev": "atri-react-app-dev-server"
+    },
+    "dependencies": {
+      "@atrilabs/app-scripts": "^0.0.71",
+      "@atrilabs/core": "^0.0.71",
+      "chokidar": "^3.5.3",
+      "http-proxy-middleware": "^2.0.6",
+      "react": "18.0.0",
+      "react-dom": "18.0.0",
+      "react-router-dom": "^6.3.0",
+      "ws": "^8.8.0",
+      "zustand": "^4.0.0-rc.1",
+      "@atrilabs/react-component-manifests": "^0.0.71"
+    },
+    "devDependencies": {
+      "eslint-config-prettier": "^8.5.0",
+      "eslint-config-react-app": "^7.0.1"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

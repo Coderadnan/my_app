@@ -1,0 +1,22 @@
+{
+  "Flex": 49,
+  "Div": 7,
+  "Button": 1,
+  "Dropdown": 5,
+  "BarChart": 2,
+  "Slider": 1,
+  "AreaChart": 1,
+  "Accordion": 2,
+  "TextBox": 126,
+  "Menu": 2,
+  "Link": 2,
+  "Upload": 1,
+  "Image": 53,
+  "Carousel": 3,
+  "Step": 1,
+  "Toggle": 1,
+  "Radio": 1,
+  "Countdown": 1,
+  "Table": 1,
+  "Input": 1
+}
