@@ -8,7 +8,7 @@ import { Flex } from "@atrilabs/react-component-manifests/src/manifests/Flex/Fle
 import { TextBox } from "@atrilabs/react-component-manifests/src/manifests/TextBox/TextBox.tsx";
 import { Image } from "@atrilabs/react-component-manifests/src/manifests/Image/Image.tsx";
 import { Carousel } from "@atrilabs/react-component-manifests/src/manifests/Carousel/Carousel.tsx";
-import { useFlex2Cb, useFlex6Cb, useFlex16Cb, useFlex19Cb, useFlex23Cb, useFlex24Cb, useFlex25Cb, useFlex26Cb, useFlex35Cb, useFlex38Cb, useFlex41Cb, useFlex42Cb, useFlex43Cb, useFlex45Cb, useFlex18Cb, useFlex46Cb, useTextBox24Cb, useTextBox26Cb, useTextBox1Cb, useImage16Cb, useTextBox112Cb, useTextBox113Cb, useTextBox114Cb, useTextBox115Cb, useCarousel1Cb, useImage6Cb, useTextBox108Cb, useTextBox109Cb, useTextBox110Cb, useTextBox116Cb, useImage39Cb, useImage10Cb, useTextBox35Cb, useTextBox36Cb, useTextBox117Cb, useImage41Cb, useImage12Cb, useTextBox37Cb, useTextBox38Cb, useTextBox39Cb, useTextBox118Cb, useImage42Cb, useImage13Cb, useTextBox42Cb, useTextBox43Cb, useTextBox44Cb, useTextBox119Cb, useImage43Cb, useImage14Cb, useTextBox46Cb, useTextBox47Cb, useImage15Cb, useTextBox48Cb, useImage53Cb, useTextBox51Cb, useImage17Cb, useImage18Cb, useImage19Cb, useTextBox52Cb, useTextBox53Cb, useTextBox54Cb, useTextBox55Cb, useTextBox56Cb, useTextBox57Cb, useTextBox58Cb, useImage21Cb, useImage22Cb, useImage23Cb, useTextBox59Cb, useTextBox60Cb, useTextBox61Cb, useTextBox62Cb, useTextBox63Cb, useTextBox65Cb, useTextBox123Cb, useImage47Cb, useTextBox66Cb, useImage27Cb, useTextBox67Cb, useTextBox68Cb, useTextBox126Cb, useImage52Cb, useTextBox69Cb, useImage28Cb, useTextBox70Cb, useTextBox71Cb, useTextBox72Cb, useImage50Cb, useTextBox73Cb, useTextBox74Cb, useTextBox75Cb, useTextBox76Cb, useTextBox77Cb, useTextBox78Cb, useTextBox79Cb, useTextBox80Cb, useTextBox81Cb, useTextBox82Cb, useTextBox83Cb, useTextBox84Cb, useTextBox85Cb, useTextBox86Cb, useTextBox87Cb, useTextBox88Cb, useTextBox89Cb, useTextBox90Cb, useTextBox91Cb, useTextBox92Cb, useTextBox93Cb, useTextBox94Cb, useTextBox95Cb, useTextBox96Cb, useTextBox97Cb, useTextBox98Cb, useTextBox99Cb, useTextBox100Cb, useTextBox124Cb, useTextBox125Cb, useImage48Cb, useTextBox103Cb, useTextBox104Cb, useTextBox105Cb, useTextBox106Cb, useTextBox107Cb, useImage29Cb, useImage30Cb, useImage31Cb, useImage34Cb, useImage35Cb, useImage37Cb, useImage38Cb, useTextBox25Cb, useTextBox122Cb, useImage46Cb } from "../page-cbs/Home";
+import { useFlex2Cb, useFlex6Cb, useFlex16Cb, useFlex19Cb, useFlex23Cb, useFlex24Cb, useFlex25Cb, useFlex26Cb, useFlex35Cb, useFlex38Cb, useFlex41Cb, useFlex42Cb, useFlex43Cb, useFlex45Cb, useFlex18Cb, useFlex46Cb, useTextBox24Cb, useTextBox26Cb, useTextBox1Cb, useImage16Cb, useTextBox112Cb, useTextBox113Cb, useTextBox114Cb, useTextBox115Cb, useImage54Cb, useCarousel1Cb, useImage6Cb, useTextBox108Cb, useTextBox109Cb, useTextBox110Cb, useTextBox116Cb, useImage39Cb, useImage10Cb, useTextBox35Cb, useTextBox36Cb, useTextBox117Cb, useImage41Cb, useImage12Cb, useTextBox37Cb, useTextBox38Cb, useTextBox39Cb, useTextBox118Cb, useImage42Cb, useImage13Cb, useTextBox42Cb, useTextBox43Cb, useTextBox44Cb, useTextBox119Cb, useImage43Cb, useImage14Cb, useTextBox46Cb, useTextBox47Cb, useImage15Cb, useTextBox48Cb, useImage53Cb, useTextBox51Cb, useImage17Cb, useImage18Cb, useImage19Cb, useTextBox52Cb, useTextBox53Cb, useTextBox54Cb, useTextBox55Cb, useTextBox56Cb, useTextBox57Cb, useTextBox58Cb, useImage21Cb, useImage22Cb, useImage23Cb, useTextBox59Cb, useTextBox60Cb, useTextBox61Cb, useTextBox62Cb, useTextBox63Cb, useTextBox65Cb, useTextBox123Cb, useImage47Cb, useTextBox66Cb, useImage27Cb, useTextBox67Cb, useTextBox68Cb, useTextBox126Cb, useImage52Cb, useTextBox69Cb, useImage28Cb, useTextBox70Cb, useTextBox71Cb, useTextBox72Cb, useImage50Cb, useTextBox73Cb, useTextBox74Cb, useTextBox75Cb, useTextBox76Cb, useTextBox77Cb, useTextBox78Cb, useTextBox79Cb, useTextBox80Cb, useTextBox81Cb, useTextBox82Cb, useTextBox83Cb, useTextBox84Cb, useTextBox85Cb, useTextBox86Cb, useTextBox87Cb, useTextBox88Cb, useTextBox89Cb, useTextBox90Cb, useTextBox91Cb, useTextBox92Cb, useTextBox93Cb, useTextBox94Cb, useTextBox95Cb, useTextBox96Cb, useTextBox97Cb, useTextBox98Cb, useTextBox99Cb, useTextBox100Cb, useTextBox124Cb, useTextBox125Cb, useImage48Cb, useTextBox103Cb, useTextBox104Cb, useTextBox105Cb, useTextBox106Cb, useTextBox107Cb, useImage29Cb, useImage30Cb, useImage31Cb, useImage34Cb, useImage35Cb, useImage37Cb, useImage38Cb, useTextBox25Cb, useTextBox122Cb, useImage46Cb } from "../page-cbs/Home";
 import "../page-css/Home.css"
 
 export default function Home() {
@@ -99,6 +99,9 @@ const TextBox114Cb = useTextBox114Cb()
 const TextBox115Props = useStore((state)=>state["Home"]["TextBox115"]);
 const TextBox115IoProps = useIoStore((state)=>state["Home"]["TextBox115"]);
 const TextBox115Cb = useTextBox115Cb()
+const Image54Props = useStore((state)=>state["Home"]["Image54"]);
+const Image54IoProps = useIoStore((state)=>state["Home"]["Image54"]);
+const Image54Cb = useImage54Cb()
 const Carousel1Props = useStore((state)=>state["Home"]["Carousel1"]);
 const Carousel1IoProps = useIoStore((state)=>state["Home"]["Carousel1"]);
 const Carousel1Cb = useCarousel1Cb()
@@ -432,6 +435,7 @@ const Image46Cb = useImage46Cb()
 
   return (<>
   <Flex className="p-Home Flex2" {...Flex2Props} {...Flex2Cb} {...Flex2IoProps}>
+<Image className="p-Home Image54" {...Image54Props} {...Image54Cb} {...Image54IoProps}/>
 <TextBox className="p-Home TextBox115" {...TextBox115Props} {...TextBox115Cb} {...TextBox115IoProps}/>
 <TextBox className="p-Home TextBox114" {...TextBox114Props} {...TextBox114Cb} {...TextBox114IoProps}/>
 <TextBox className="p-Home TextBox113" {...TextBox113Props} {...TextBox113Cb} {...TextBox113IoProps}/>
@@ -503,10 +507,10 @@ const Image46Cb = useImage46Cb()
 <TextBox className="p-Home TextBox59" {...TextBox59Props} {...TextBox59Cb} {...TextBox59IoProps}/>
 <Image className="p-Home Image23" {...Image23Props} {...Image23Cb} {...Image23IoProps}/>
 <Image className="p-Home Image22" {...Image22Props} {...Image22Cb} {...Image22IoProps}/>
-<TextBox className="p-Home TextBox58" {...TextBox58Props} {...TextBox58Cb} {...TextBox58IoProps}/>
 <TextBox className="p-Home TextBox57" {...TextBox57Props} {...TextBox57Cb} {...TextBox57IoProps}/>
 <TextBox className="p-Home TextBox55" {...TextBox55Props} {...TextBox55Cb} {...TextBox55IoProps}/>
 <Image className="p-Home Image21" {...Image21Props} {...Image21Cb} {...Image21IoProps}/>
+<TextBox className="p-Home TextBox58" {...TextBox58Props} {...TextBox58Cb} {...TextBox58IoProps}/>
 <TextBox className="p-Home TextBox56" {...TextBox56Props} {...TextBox56Cb} {...TextBox56IoProps}/>
 <TextBox className="p-Home TextBox54" {...TextBox54Props} {...TextBox54Cb} {...TextBox54IoProps}/>
 <TextBox className="p-Home TextBox53" {...TextBox53Props} {...TextBox53Cb} {...TextBox53IoProps}/>

@@ -79,5 +79,8 @@
   },
   "minus.png": {
     "mime": "image/png"
+  },
+  "down-arrow.png": {
+    "mime": "image/png"
   }
 }

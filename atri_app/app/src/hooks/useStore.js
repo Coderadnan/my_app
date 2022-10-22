@@ -185,6 +185,19 @@ const desktopModeProps = {
         ]
       }
     },
+    "Image54": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/down-arrow.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
     "Carousel1": {
       "custom": {
         "items": [],

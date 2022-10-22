@@ -2068,3 +2068,19 @@ export function useImage53Cb() {
 }), [])
 	return { onClick }
 }
+export function useImage54Cb() {
+	const onClick = useCallback(callbackFactory("Image54", "Home", "/", "onClick", 
+			{
+  "handlers": [
+    {
+      "sendEventData": true
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
