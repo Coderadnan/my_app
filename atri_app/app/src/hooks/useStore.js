@@ -112,6 +112,18 @@ const desktopModeProps = {
         ]
       }
     },
+    "TextBox61": {
+      "custom": {
+        "text": "Motion Graphics"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
     "TextBox1": {
       "custom": {
         "text": "Webfolio X"
@@ -496,19 +508,6 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image14": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/5.jpeg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
     "TextBox46": {
       "custom": {
         "text": "Who’s behind all this great work?"
@@ -562,6 +561,19 @@ const desktopModeProps = {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/arrow_outward_FILL0_wght400_GRAD0_opsz48.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image55": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/5.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -760,18 +772,6 @@ const desktopModeProps = {
     "TextBox60": {
       "custom": {
         "text": "Brand Design"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox61": {
-      "custom": {
-        "text": "Motion Graphics"
       },
       "callbacks": {
         "onClick": [
