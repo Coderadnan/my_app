@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="96ada8fb-d937-49b7-aac1-e3bdc3e5b309" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/atri_app/app/src/hooks/useStore.js" beforeDir="false" afterPath="$PROJECT_DIR$/atri_app/app/src/hooks/useStore.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atri_app/app/src/page-cbs/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/atri_app/app/src/page-cbs/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atri_app/app/src/page-css/Home.css" beforeDir="false" afterPath="$PROJECT_DIR$/atri_app/app/src/page-css/Home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atri_app/app/src/pages/Home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/atri_app/app/src/pages/Home.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/routes/atri.py" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/routes/atri.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/localdb/forests/@atrilabs/app-design-forest/alias.json" beforeDir="false" afterPath="$PROJECT_DIR$/localdb/forests/@atrilabs/app-design-forest/alias.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/localdb/forests/@atrilabs/app-design-forest/events/home/events.json" beforeDir="false" afterPath="$PROJECT_DIR$/localdb/forests/@atrilabs/app-design-forest/events/home/events.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2GijgSmq79Jo8Z1iu2izunVRnNv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96ada8fb-d937-49b7-aac1-e3bdc3e5b309" name="Changes" comment="" />
+      <created>1666878412377</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666878412377</updated>
+    </task>
+    <servers />
+  </component>
+</project>
